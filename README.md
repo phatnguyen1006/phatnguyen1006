@@ -1,8 +1,27 @@
 ### Hi there 👋
 
-<!--
-**phatnguyen1006/phatnguyen1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Something about me..
 
+<!--
+**phatnguyen1006/phatnguyen1006**
+-->
+
+const P =
+{
+  Working:    "WebDev Studios",
+  University: "UIT",
+  Tech:
+  {
+    Front-end:
+    {
+      html,
+      css: "Bootstrap",
+      js: "ReactJS"
+    }
+   }
+}
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
