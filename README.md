@@ -3,7 +3,7 @@
 Something about me..
 
 **phatnguyen1006/phatnguyen1006**
-
+```script
 const P =
 {
   Working:    "WebDev Studios",
@@ -18,7 +18,7 @@ const P =
     }
    }
 }
-
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
