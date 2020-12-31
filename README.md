@@ -15,8 +15,21 @@ const P =
       html,
       scss,
       css: "Bootstrap",
-      js: ["ReactJS","NodeJS"]
+      js: "ReactJS"
     }
+    Back-end:
+    {
+      java: "Loading...",
+      js: "NodeJS"
+    }
+    Database:
+    {
+      SQL: ["MySQL","SQL Server"],
+      MongoDB
+   }
+   App:
+   {
+      Mobile: "swift"
    }
 }
 ```
