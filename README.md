@@ -2,7 +2,7 @@
 
 Something about me..
 
-**phatnguyen1006/phatnguyen1006**
+**phatnguyen1006**
 ```script
 const P =
 {
@@ -13,8 +13,9 @@ const P =
     Front-end:
     {
       html,
+      scss,
       css: "Bootstrap",
-      js: "ReactJS"
+      js: ["ReactJS","NodeJS"]
     }
    }
 }
