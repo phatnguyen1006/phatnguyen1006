@@ -7,7 +7,7 @@ Something about me..
 const P =
 {
   Working:    "WebDev Studios",
-  University: "UIT",
+  University: "University of Information Technology -VN National University Ho Chi Minh City",
   Tech:
   {
     Front-end:
@@ -26,11 +26,12 @@ const P =
     {
       SQL: ["MySQL","SQL Server"],
       MongoDB
-   }
-   App:
-   {
+    }
+    App:
+    {
       Mobile: "swift"
-   }
+    }
+  }
 }
 ```
 Here are some ideas to get you started:
