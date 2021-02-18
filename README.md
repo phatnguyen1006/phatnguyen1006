@@ -30,7 +30,7 @@ const P =
     }
     App:
     {
-      Mobile: "swift"
+      Swift: [ "Storyboard", "SwiftUI" ],
     }
   }
 }
