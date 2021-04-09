@@ -15,7 +15,7 @@ const P =
       html,
       scss,
       css: "Bootstrap",
-      js: ["jQuery","ReactJS"]
+      js: [ "jQuery", "ReactJS" ]
     }
     Back-end:
     {
