@@ -28,6 +28,12 @@ const P =
       SQL: "MySQL",
       NoSQL: "MongoDB"
     }
+    Operates:
+    {
+      Docker,
+      Heroku,
+      Netify,
+    }
     App:
     {
       Swift: [ "Storyboard", "SwiftUI" ],
