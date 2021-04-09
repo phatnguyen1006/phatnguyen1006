@@ -15,7 +15,7 @@ const P =
       html,
       scss,
       css: "Bootstrap",
-      js: "ReactJS"
+      js: ["jQuery","ReactJS"]
     }
     Back-end:
     {
@@ -25,8 +25,8 @@ const P =
     }
     Database:
     {
-      SQL: ["MySQL","SQL Server"],
-      MongoDB
+      SQL: "MySQL",
+      NoSQL: "MongoDB"
     }
     App:
     {
