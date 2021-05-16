@@ -32,7 +32,7 @@ const P =
     {
       Docker,
       Heroku,
-      Netify,
+      Netlify,
     }
     App:
     {
