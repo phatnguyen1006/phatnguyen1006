@@ -2,7 +2,7 @@
 
 Something about me..
 
-![avatar](https://github.com/phatnguyen1006)
+![https://github.com/phatnguyen1006](https://avatars.githubusercontent.com/u/69576826?v=4)
 
 **phatnguyen1006**
 ```script
