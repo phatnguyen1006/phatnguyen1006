@@ -2,10 +2,6 @@
 
 Something about me..
 
-
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69576826?v=4" alt="Avatar" width="10px">
-
-
 **phatnguyen1006**
 ```script
 const P =
