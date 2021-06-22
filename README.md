@@ -3,7 +3,8 @@
 Something about me..
 
 
-<img style="border-radius:50%" width="30px" src="https://avatars.githubusercontent.com/u/69576826?v=4" />
+<img style="border-radius: 50%;" src="img_avatar.png" alt="Avatar" style="width:200px">
+
 
 **phatnguyen1006**
 ```script
