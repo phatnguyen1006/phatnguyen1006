@@ -2,6 +2,8 @@
 
 Something about me..
 
+![alt text](https://github.com/phatnguyen1006)
+
 **phatnguyen1006**
 ```script
 const P =
