@@ -2,6 +2,11 @@
 
 Something about me..
 
+<style>
+  img {
+    border-radius: 50%;
+  }
+</style>
 <a href="https://github.com/phatnguyen1006/">
   <img src="https://avatars.githubusercontent.com/u/69576826?v=4" width="50px" />
 </a>
