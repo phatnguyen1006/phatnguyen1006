@@ -3,9 +3,7 @@
 Something about me..
 
 
-<a href="https://github.com/phatnguyen1006">
-  <img style="border-radius:50%" width="30px" src="https://avatars.githubusercontent.com/u/69576826?v=4"/>
-</a>
+<img style="border-radius:50%" width="30px" src="https://avatars.githubusercontent.com/u/69576826?v=4" />
 
 **phatnguyen1006**
 ```script
