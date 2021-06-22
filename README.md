@@ -3,8 +3,8 @@
 Something about me..
 
 
-<a href="https://github.com/phatnguyen1006/phatnguyen1006">
-  <img width="500px" src="https://avatars.githubusercontent.com/u/69576826?v=4"/>
+<a href="https://github.com/phatnguyen1006">
+  <img style="border-radius: 10px" width="100px" src="https://avatars.githubusercontent.com/u/69576826?v=4"/>
 </a>
 
 **phatnguyen1006**
