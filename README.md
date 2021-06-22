@@ -2,7 +2,12 @@
 
 Something about me..
 
-![https://github.com/phatnguyen1006](https://avatars.githubusercontent.com/u/69576826?v=4)
+![Alt](https://avatars.githubusercontent.com/u/69576826?v=4)
+```html
+<a href="https://github.com/phatnguyen1006/phatnguyen1006">
+  <img src="https://avatars.githubusercontent.com/u/69576826?v=4"/>
+</a>
+```
 
 **phatnguyen1006**
 ```script
