@@ -14,29 +14,36 @@ const P =
     {
       html,
       scss,
-      css: "Bootstrap",
-      js: [ "jQuery", "ReactJS", "Typescript" ]
-    }
+      css: "Bootstrap, TailwindCSS",
+      js: [ "jQuery", "ReactJS/ NextJS", "Typescript" ]
+    },
     Back-end:
     {
       java: "Loading...",
       php: "Loading...",
-      js: "NodeJS"
-    }
+      js: [ "NodeJS/ ExpressJS", "NestJS" ]
+    },
     Database:
     {
       SQL: "MySQL",
       NoSQL: "MongoDB"
-    }
+    },
     Operates:
     {
       Docker,
       Heroku,
       Netlify,
-    }
+      Vercel,
+    },
     App:
     {
       Swift: [ "Storyboard", "SwiftUI" ],
+      Flutter,
+    },
+    Technical:
+    {
+      Firebase,
+      Redux,
     }
   }
 }
