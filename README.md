@@ -2,11 +2,6 @@
 
 Something about me..
 
-<a href="https://www.facebook.com/tsone.ylov">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />  
-</a>
-
-
 **phatnguyen1006**
 ```script
 const P =
@@ -53,3 +48,7 @@ const P =
   }
 }
 ```
+
+<a href="https://www.facebook.com/tsone.ylov">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />  
+</a>
