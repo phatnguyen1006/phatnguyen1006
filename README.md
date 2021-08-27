@@ -34,7 +34,7 @@ const P =
     App:
     {
       Swift: [ "Storyboard", "SwiftUI" ],
-      Flutter,
+      Dart: "Flutter",
     },
     Technical:
     {
