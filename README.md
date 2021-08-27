@@ -20,7 +20,6 @@ const P =
     Back-end:
     {
       java: "Loading...",
-      php: "Loading...",
       js: [ "NodeJS/ ExpressJS", "NestJS" ]
     },
     Database:
@@ -31,9 +30,6 @@ const P =
     Operates:
     {
       Docker,
-      Heroku,
-      Netlify,
-      Vercel,
     },
     App:
     {
