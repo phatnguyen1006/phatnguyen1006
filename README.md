@@ -27,7 +27,7 @@ const P =
       SQL: "MySQL",
       NoSQL: "MongoDB"
     },
-    Operates:
+    Operations:
     {
       Docker,
     },
