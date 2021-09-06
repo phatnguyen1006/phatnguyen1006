@@ -12,15 +12,15 @@ const P =
   {
     Front-end:
     {
-      html,
-      scss,
-      css: "Bootstrap, TailwindCSS",
-      js: [ "jQuery", "ReactJS/ NextJS", "Typescript" ]
+      HTML,
+      SCSS,
+      CSS: "Bootstrap, TailwindCSS",
+      JS: [ "jQuery", "ReactJS/ NextJS", "Typescript" ]
     },
     Back-end:
     {
-      java: "Loading...",
-      js: [ "NodeJS/ ExpressJS", "NestJS" ]
+      Java: "Loading...",
+      JS: [ "NodeJS/ ExpressJS", "NestJS" ]
     },
     Database:
     {
