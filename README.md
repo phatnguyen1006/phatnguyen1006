@@ -36,7 +36,7 @@ const P =
       Swift: [ "Storyboard", "SwiftUI" ],
       Dart: "Flutter",
     },
-    Technical:
+    Services:
     {
       Firebase,
       Redux,
