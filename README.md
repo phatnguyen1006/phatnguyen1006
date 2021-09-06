@@ -3,7 +3,7 @@
 Something about me..
 
 **phatnguyen1006**
-```script
+```javascript
 const P =
 {
   Working:    "WebDev Studios",
