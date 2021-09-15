@@ -33,7 +33,7 @@ const P =
     },
     App:
     {
-      Swift: [ "Storyboard", "SwiftUI" ],
+      Swift: [ "UIKit", "SwiftUI" ],
       Dart: "Flutter",
     },
     Services:
