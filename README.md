@@ -33,7 +33,7 @@ const P =
     },
     App:
     {
-      Swift: [ "UIKit", "SwiftUI" ],
+      Swift: [ "UIKit", "SwiftUI", "SKSpriteKit" ],
       Dart: "Flutter",
       C#: "Xamarin",
     },
