@@ -27,14 +27,7 @@ const P =
       SQL: "MySQL",
       NoSQL: "MongoDB"
     },
-    Operations:
-    {
-      Docker,
-      Nginx,
-      Jenkins,
-      CirleCI,
-      GitLab,
-    },
+    Operations: ["Docker", "Nginx", "Jenkins", "CircleCI", "GitLab"],
     App:
     {
       Swift: [ "UIKit", "SwiftUI", "SKSpriteKit" ],
