@@ -40,7 +40,8 @@ const P =
     Services:
     {
       Firebase,
-      Redux,
+      Realm,
+      Redux/@Redux-Tookit,
     }
   }
 }
