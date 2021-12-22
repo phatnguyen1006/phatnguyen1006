@@ -34,12 +34,7 @@ const P =
       Dart: "Flutter",
       C#: "Xamarin",
     },
-    Services:
-    {
-      Firebase,
-      Realm,
-      Redux/@Redux-Tookit,
-    }
+    Services: ["Firebase", "Realm", "Redux", "Redux-Toolkit"]
   }
 }
 ```
