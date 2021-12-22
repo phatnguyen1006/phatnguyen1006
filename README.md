@@ -30,6 +30,10 @@ const P =
     Operations:
     {
       Docker,
+      Nginx,
+      Jenkins,
+      CirleCI,
+      GitLab,
     },
     App:
     {
