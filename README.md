@@ -10,14 +10,14 @@ const P =
   University: "University of Information Technology -VN National University Ho Chi Minh City",
   Tech:
   {
-    Front-end:
+    FrontEnd:
     {
       HTML,
       SCSS,
       CSS: "Bootstrap, TailwindCSS",
       JS: [ "jQuery", "ReactJS/ NextJS", "Typescript" ]
     },
-    Back-end:
+    BackEnd:
     {
       JS: [ "NodeJS/ ExpressJS", "NestJS" ]
     },
