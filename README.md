@@ -19,7 +19,6 @@ const P =
     },
     Back-end:
     {
-      Java: "Loading...",
       JS: [ "NodeJS/ ExpressJS", "NestJS" ]
     },
     Database:
