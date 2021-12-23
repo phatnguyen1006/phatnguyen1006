@@ -23,7 +23,7 @@ const P =
     },
     Database:
     {
-      SQL: "MySQL",
+      SQL: ["MySQL", "PostgresSQL", "SQLite"],
       NoSQL: "MongoDB"
     },
     Operations: ["Docker", "Nginx", "Jenkins", "CircleCI", "GitLab"],
