@@ -24,7 +24,7 @@ const P =
     Database:
     {
       SQL: ["MySQL", "PostgresSQL", "SQLite"],
-      NoSQL: "MongoDB"
+      NoSQL: [ "MongoDB", "Redis" ],
     },
     Operations: ["Docker", "Nginx", "Jenkins", "CircleCI", "GitLab"],
     App:
