@@ -44,7 +44,7 @@ const P =
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen1006&layout=compact&theme=tokyonight" />  
 </a> -->
 
-[![New Year 2022](https://img.youtube.com/vi/oDElB2UnOEI/0.jpg)](https://www.youtube.com/watch?v=oDElB2UnOEI)
+<!-- [![New Year 2022](https://img.youtube.com/vi/oDElB2UnOEI/0.jpg)](https://www.youtube.com/watch?v=oDElB2UnOEI) -->
 
 <a href="https://www.facebook.com/tsone.ylov" title="Go to Facebook">
  <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen1006&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />    </a>
