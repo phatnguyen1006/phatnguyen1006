@@ -19,8 +19,8 @@ const P =
     {
       HTML,
       SCSS,
-      CSS: [ "Bootstrap, TailwindCSS" ],
-      JS: [ "jQuery", "ReactJS/ NextJS", "Typescript" ]
+      CSS: [ "Bootstrap", "TailwindCSS" ],
+      JS: [ "jQuery", "ReactJS/ NextJS", "TypeScript" ]
     },
     BackEnd:
     {
