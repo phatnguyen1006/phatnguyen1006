@@ -31,7 +31,7 @@ const P =
       SQL: ["MySQL", "PostgresSQL", "SQLite"],
       NoSQL: [ "MongoDB", "Redis" ],
     },
-    Operations: ["Docker", "Nginx", "Jenkins", "CircleCI", "TravisCI", "GitLab"],
+    Operations: ["GCP", "Docker", "Nginx", "Jenkins", "CircleCI", "TravisCI", "GitLab"],
     App:
     {
       Swift: [ "UIKit", "SwiftUI", "SKSpriteKit" ],
