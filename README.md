@@ -36,6 +36,7 @@ const P =
     {
       Swift: [ "UIKit", "SwiftUI", "SKSpriteKit" ],
       Dart: "Flutter",
+      Java,
       C#: "Xamarin",
     },
     Services: ["Firebase", "Realm", "Redux", "Redux-Toolkit"]
