@@ -19,7 +19,7 @@ const P =
     {
       HTML,
       SCSS,
-      CSS: [ "Bootstrap", "TailwindCSS", "Theme-ui" ],
+      CSS: [ "Bootstrap", "TailwindCSS", "theme-ui" ],
       JS: [ "jQuery", "ReactJS/ NextJS", "Chakra UI", "TypeScript" ]
     },
     BackEnd:
