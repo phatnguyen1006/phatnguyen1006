@@ -11,7 +11,6 @@
 ```javascript
 const P =
 {
-  Working:    "WebDev Studios",
   University: "University of Information Technology -VN National University Ho Chi Minh City",
   Tech:
   {
