@@ -3,7 +3,7 @@
 **phatnguyen1006**
 <p><em>iOS & Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-[![Mail Badge](https://img.shields.io/badge/-Phát%20Nguyễn-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:phatnguyen876@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Phát%20Nguyễn-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:phatnguyencontact@gmail.com)
 [![Linkedin: phatnguyen1006](https://img.shields.io/badge/-Phat%20Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phatnguyen1006/)](https://www.linkedin.com/in/phatnguyen1006/)
 <!-- ![GitHub followers](https://img.shields.io/github/followers/phatnguyen1006?label=Follow&style=social) -->
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=phatnguyen1006.phatnguyen1006) -->
