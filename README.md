@@ -36,7 +36,6 @@ const P =
       Swift: [ "UIKit", "SwiftUI", "SKSpriteKit" ],
       Objective-C,
       Dart: "Flutter",
-      Java,
       C#: "Xamarin",
     },
     Services: ["Firebase", "Realm", "Redux", "Redux-Toolkit"]
