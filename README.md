@@ -11,8 +11,8 @@
 ```javascript
 const P =
 {
-  University: "University of Information Technology -VN National University Ho Chi Minh City",
-  Don't hesitate to ask me about:
+  university: "University of Information Technology -VN National University Ho Chi Minh City",
+  dontHesitateToAskMeAbout:
   {
     FrontEnd:
     {
